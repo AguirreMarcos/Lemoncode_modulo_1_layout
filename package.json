@@ -1,0 +1,22 @@
+{
+  "name": "lemoncode_modulo_1_layout",
+  "version": "1.0.0",
+  "description": "practicas del primer modulo del master frontend de lemoncode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AguirreMarcos/Lemoncode_modulo_1_layout.git"
+  },
+  "author": "Marcos Aguirre Miñarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AguirreMarcos/Lemoncode_modulo_1_layout/issues"
+  },
+  "homepage": "https://github.com/AguirreMarcos/Lemoncode_modulo_1_layout#readme",
+  "devDependencies": {
+    "sass": "^1.32.11"
+  }
+}
